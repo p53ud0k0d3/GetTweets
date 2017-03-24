@@ -2,10 +2,10 @@ import tweepy
 import csv
 import re
 
-consumer_key = "kEex4FTVUgiv0UbQ9IQ2KNXVS"
-consumer_secret = "9wxktWy7uFg6LVUvf31f9lv7n0WMEDgLn658upiNTb0ZtOt6gB"
-access_key = "2394096084-kCTveFvm2JXsnYSk8wIlR0nOyw1BaZLDLlxrzNP"
-access_secret = "PFWOFw3ZxYj0niXjqornMkLn0m3M6l7zZJ9POJbwLXwlu"
+consumer_key = ""
+consumer_secret = ""
+access_key = ""
+access_secret = ""
 
 
 def get_all_tweets(screen_name):
